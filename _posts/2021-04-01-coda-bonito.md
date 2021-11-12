@@ -2,10 +2,10 @@
 layout: post
 title:  "Coda Bonito - An R library for football analysis"
 author: thecomeonman
-categories: [ Urban ]
-tags: [ R, tool, code ]
+categories: [ Football ]
+tags: [ R, code ]
 image: "https://raw.githubusercontent.com/thecomeonman/Montek/master/Screenshots/060_Output_Variables.png"
-description: "An R-Shiny based tool for running Monte Carlo simulations"
+description: "Includes visualisations, simple models, and other things"
 featured: false
 hidden: false
 ---
