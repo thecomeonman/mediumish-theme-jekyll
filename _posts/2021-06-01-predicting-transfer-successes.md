@@ -6,7 +6,7 @@ categories: [ Football ]
 tags: [ R, methodology ]
 image: "https://raw.githubusercontent.com/thecomeonman/PredictingTransferSuccesses/master/README_files/figure-markdown_strict/graph_viz_4513451345-1.png"
 description: "Trying to predict successful transfers using VAEP"
-featured: false
+featured: true
 hidden: false
 ---
 

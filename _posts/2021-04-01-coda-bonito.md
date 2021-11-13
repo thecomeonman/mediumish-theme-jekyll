@@ -4,7 +4,7 @@ title:  "Coda Bonito - An R library for football analysis"
 author: thecomeonman
 categories: [ Football ]
 tags: [ R, code ]
-image: "https://raw.githubusercontent.com/thecomeonman/Montek/master/Screenshots/060_Output_Variables.png"
+image: "https://raw.githubusercontent.com/thecomeonman/CodaBonito/master/README_files/figure-markdown_strict/fRadarPercentileChart-1.png"
 description: "Includes visualisations, simple models, and other things"
 featured: false
 hidden: false
